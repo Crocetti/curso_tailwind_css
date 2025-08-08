@@ -31,6 +31,7 @@ module.exports = {
         '9xl': '9rem'
       }
     },
+
   },
   variants: {},
   plugins: [],
